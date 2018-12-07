@@ -1,4 +1,4 @@
-# Corda on Docker is not avaliable from main Corda repo. Please take a look at: https://github.com/corda/corda/tree/master/docker
+# Corda on Docker is now avaliable from main Corda repo. Please take a look at: https://github.com/corda/corda/tree/master/docker
 
 **Old documentation:**
 
