@@ -34,6 +34,12 @@ ssh user1@localhost -p 32773
 flow start ExampleFlow$Initiator iouValue: 50, otherParty: "O=PartyB,L=New York,C=US"
 ```
 
+## Tear down
+```
+docker system prune -a
+docker volume prune
+```
+
 ## References:
 [corda-network-builder](https://docs.corda.net/network-builder.html#quickstart-local-docker)
 [cordapp-tutorial](https://docs.corda.net/releases/release-V4.0/tutorial-cordapp.html)
