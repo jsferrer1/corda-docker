@@ -2,7 +2,7 @@
 
 ## Build
 ```
-git clone https://github.com/corda/samples
+git clone git@github.com:corda/samples.git
 
 cd samples/cordapp-example
 
