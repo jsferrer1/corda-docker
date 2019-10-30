@@ -10,7 +10,7 @@ cd samples/cordapp-example
 ```
 
 ## Corda Tool Network Builder
-- either download from [link](https://dl.bintray.com/r3/corda/net/corda/corda-network-builder/3.2-corda/) or
+- either download from [link](https://software.r3.com/artifactory/corda-releases/net/corda/corda-tools-network-builder/4.1/corda-tools-network-builder-4.1.jar) or
 - build from source
 ```
 git clone git@github.com:corda/corda.git
